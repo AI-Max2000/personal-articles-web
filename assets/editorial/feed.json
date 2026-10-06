@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-29T23:53:17.945Z",
+  "articles": [
+    {
+      "id": "woshipm:6458867",
+      "source": "woshipm",
+      "title": "为什么 Codex 等 AI Agent 产品要做额度隐藏？",
+      "summary": "一、现象：同类型产品的多种额度展示方式 最近做 Vibe Coding 的时候，发现了一个有趣的小点。因为最近体验的 AI Agent 产品比较多，包括 Codex、Claude Code、秒悟、WorkBuddy、豆包工作等，我开始注意到它们在额度展示上的差",
+      "url": "https://www.woshipm.com/ai/6458867.html",
+      "publishedAt": "2026-09-03"
+    }
+  ],
+  "projects": [
+    {
+      "id": "github:1390873187",
+      "source": "github",
+      "kind": "product",
+      "title": "weiming",
+      "summary": "未明 · 团队协作入口",
+      "url": "https://github.com/AI-Max2000/weiming",
+      "updatedAt": "2026-09-27T13:27:58Z"
+    },
+    {
+      "id": "github:1354218450",
+      "source": "github",
+      "kind": "tool",
+      "title": "CodexFloat",
+      "summary": "A privacy-first native macOS Codex quota, reset activity, and task status assistant.",
+      "url": "https://github.com/AI-Max2000/CodexFloat",
+      "updatedAt": "2026-09-27T07:44:23Z"
+    },
+    {
+      "id": "github:1378395939",
+      "source": "github",
+      "kind": "tool",
+      "title": "codex-skill-manager",
+      "summary": "macOS 可视化管理 Codex Skills：全局与项目开关、插件 Skill 暂停、三语翻译和 SKILL.md 阅读。",
+      "url": "https://github.com/AI-Max2000/codex-skill-manager",
+      "updatedAt": "2026-09-20T14:01:19Z"
+    },
+    {
+      "id": "github:1362174633",
+      "source": "github",
+      "kind": "product",
+      "title": "yizhu-web",
+      "summary": "一炷网页发布文件，仅用于固定外网体验入口。",
+      "url": "https://github.com/AI-Max2000/yizhu-web",
+      "updatedAt": "2026-09-09T04:01:15Z"
+    },
+    {
+      "id": "github:1352677262",
+      "source": "github",
+      "kind": "tool",
+      "title": "product-deconstruction-skill",
+      "summary": "Evidence-led AI and software product deconstruction with four-layer analysis and a modular responsive HTML report.",
+      "url": "https://github.com/AI-Max2000/product-deconstruction-skill",
+      "updatedAt": "2026-09-01T02:44:54Z"
+    }
+  ],
+  "sources": {
+    "github": {
+      "state": "ready",
+      "profileUrl": "https://github.com/AI-Max2000"
+    },
+    "woshipm": {
+      "state": "ready",
+      "profileUrl": "https://www.woshipm.com/u/1390044"
+    },
+    "wechat": {
+      "state": "unconfigured",
+      "profileUrl": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w"
+    }
+  }
+}

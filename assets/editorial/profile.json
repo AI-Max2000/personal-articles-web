@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "name": "江昊天",
+  "englishName": "HAOTIAN JIANG",
+  "portrait": "assets/profile/jiang-haotian-portrait.jpg",
+  "role": "AI 产品经理 · AI Builder",
+  "bio": "记录思考，分享实践。",
+  "tagline": "从游戏交互出发，构建 AI 产品与工具。",
+  "about": "我从 SLG 游戏交互策划开始，关注复杂系统如何被理解、被使用。后来走向 AI 产品，围绕玩家服务、内容生产和研发协作，把业务问题拆成产品方案、工作流与可验证的原型。\n\n工作之外，我独立构建「一炷」「未明」，也在做面向内容创作者的 TOC 创作台和面向 AI 产品经理的 AI 产品工厂。从交互设计、模型评测到上线迭代，我喜欢把想法做成可以使用的产品，再把经验写成文章、插件和 Skill。",
+  "wechat": "Bunny-one-15",
+  "email": "1278983932@qq.com",
+  "phone": "17679089420",
+  "officialAccount": null,
+  "officialAccountUrl": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w",
+  "focusAreas": [
+    { "title": "产品与交互", "description": "用户研究、需求拆解、信息架构与复杂流程设计。" },
+    { "title": "Agent 编排", "description": "任务拆解、工具调用与多 Agent 协作，让模型在清晰的边界内完成工作。" },
+    { "title": "评测与构建", "description": "用真实任务、人工评审和模型评测验证方案，再通过独立产品与工具持续迭代。" }
+  ],
+  "experience": [
+    {
+      "organization": "乐易网络股份有限公司",
+      "period": "2023.08–2026.07",
+      "focus": "AI 产品经理",
+      "description": "围绕玩家服务、内容生产与研发协作，推进智能客服、AIGC 平台和 Coding Agent 的产品规划、场景验证与能力复用，参与跨团队协作和 AI 培训。"
+    },
+    {
+      "organization": "乐易网络股份有限公司",
+      "period": "2022.05–2023.08",
+      "focus": "交互策划",
+      "description": "参与 Westgame-Mia 等 SLG 项目的用户研究、信息架构和系统交互设计，跟进需求评审、研发对齐与版本验收。"
+    }
+  ],
+  "sharing": [
+    { "id": "aigc-workshop", "category": "企业培训", "title": "AIGC 时代的工作流程与应用", "description": "面向公司团队分享游戏业务中的 AI 使用场景、工作流与实操方法。", "url": null },
+    { "id": "writing-in-public", "category": "持续创作", "title": "把实践写下来", "description": "在公众号、人人都是产品经理与站酷分享作品和文章，记录 AI 产品体验、工作流实践与构建过程。", "url": "https://www.woshipm.com/u/1390044" },
+    { "id": "grok-bot-meetup", "category": "行业交流", "title": "2026 SpaceXAI Grok Bot Meetup", "description": "受邀参与北京线下交流。", "url": null }
+  ],
+  "profileLinks": [
+    { "label": "GitHub", "url": "https://github.com/AI-Max2000" },
+    { "label": "人人都是产品经理", "url": "https://www.woshipm.com/u/1390044" },
+    { "label": "公众号文章", "url": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w" }
+  ],
+  "portfolio": [
+    {
+      "id": "ai-product-factory",
+      "kind": "product",
+      "group": "独立项目",
+      "title": "AI 产品工厂",
+      "summary": "面向 AI 产品经理的本地产品工作台，串联需求、文档、原型、模型评测与交付，减少跨工具重复搬运上下文。",
+      "role": "独立构建 · AI Builder",
+      "period": null,
+      "status": "本地产品",
+      "repository": null,
+      "url": null,
+      "details": [
+        "支持产品分析、需求澄清与 PRD 写作，资料和产物可在任务之间引用。",
+        "文档支持定向修改、版本比较与恢复，再把选定版本交给原型生成。",
+        "用样例集、人工评分与 AI 裁判对比模型的回答、耗时和用量，保留评测记录。",
+        "从文档提炼可复用 Skill；基于模板生成 AI Web 工具，经过测试与验收后输出部署包。",
+        "用户接入自己的模型 API；对话与文档保存在本机，生成请求发送给所选模型服务。"
+      ]
+    },
+    {
+      "id": "toc-creator-studio",
+      "kind": "product",
+      "group": "独立项目",
+      "title": "TOC · AI 内容创作台",
+      "summary": "把选题、研究、共创、审校与排版串成连续流程。让 AI 协助检索与表达，把选题和观点的决定权留给创作者。",
+      "role": "独立构建 · AI Builder",
+      "period": null,
+      "status": "流程已跑通",
+      "repository": null,
+      "url": null,
+      "details": [
+        "聚合 AI 热点与精选内容，提炼选题角度，整理中英文来源中的观点、证据与分歧。",
+        "先加入作者的观点与真实经历、确认大纲，再分步生成和编辑文章。",
+        "为引用关联原始证据，支持事实核查与内容重合度检查。",
+        "沉淀个人选题和案例知识，复用于后续创作，并导出公众号等平台的排版格式。"
+      ]
+    },
+    {
+      "id": "yizhu",
+      "kind": "product",
+      "group": "独立项目",
+      "title": "一炷",
+      "summary": "围绕发问、求签与解读，构建带有对话感的线上求签体验。独立完成产品设计、工作流与上线。",
+      "role": "独立构建 · AI Builder",
+      "period": null,
+      "status": "线上体验",
+      "repository": "AI-Max2000/yizhu-web",
+      "url": "https://yi-zhu.cn",
+      "details": ["设计发问、求签与解读的交互，明确角色语气和回答边界。", "维护结构化签文与解读资料，用 Dify 编排提问、求签、检索和解读流程。", "独立完成域名与上线，持续观察用户从提交问题到展开签纸的体验。"]
+    },
+    {
+      "id": "weiming",
+      "kind": "product",
+      "group": "独立项目",
+      "title": "未明",
+      "summary": "已上线的 AI 海龟汤推理产品。用工作流控制线索推进与信息披露，让模型专注判定，保留推理的乐趣。",
+      "role": "独立构建 · AI Builder",
+      "period": null,
+      "status": "已上线",
+      "repository": "AI-Max2000/weiming",
+      "url": "https://github.com/AI-Max2000/weiming",
+      "details": ["采用工作流与 LLM 判定节点，约束输出为「是 / 否 / 无关」，控制主持人的回答边界。", "把汤底拆成互不蕴含的关键线索，按命中情况推进阶段、提示与真相还原。", "记录已命中线索和提问次数，拦截直接索取汤底的提示注入。", "用覆盖同义、否定、复合问法与注入样本的评测集，验证判定准确性与一致性。"]
+    },
+    {
+      "id": "game-ai-support",
+      "kind": "product",
+      "group": "公司实践",
+      "title": "游戏 AI 智能客服",
+      "summary": "面向充值、账号与游戏问题，设计游戏内问答入口、知识检索与转人工流程，让回答有依据、服务有兜底。",
+      "role": "产品方案 · 知识与服务流程",
+      "period": "2023.09–2024.09",
+      "status": "游戏服务场景",
+      "repository": null,
+      "url": null,
+      "details": ["梳理玩家售后问题，设计智能 Wiki 悬浮入口与问答流程。", "组织游戏规则、FAQ 与历史问题，设计检索、引用溯源和反馈回流。", "设计无答案兜底与转人工流程，明确模型回答边界。"]
+    },
+    {
+      "id": "aigc-platform",
+      "kind": "product",
+      "group": "公司实践",
+      "title": "乐游 AIGC 生成平台",
+      "summary": "面向游戏美术与素材生产，整合生图、贴图和视频能力，梳理内容资产、权限与额度，让工作流能够复用。",
+      "role": "产品方案 · 平台与工作流",
+      "period": "2024.10–2025.08",
+      "status": "公司内部平台",
+      "repository": null,
+      "url": null,
+      "details": ["围绕角色生成、风格化批量生成与三视图一致性，梳理美术和买量素材的生产流程。", "设计 CMS 内容资产、权限与额度管理，让生成能力和素材在项目之间复用。", "围绕质量、风格一致性、成本与速度建立模型评测集，沉淀选型流程。"]
+    },
+    {
+      "id": "game-agent",
+      "kind": "product",
+      "group": "公司实践",
+      "title": "游戏研发 Coding Agent",
+      "summary": "围绕策划文档转配置、需求拆解与测试生成，验证 Coding Agent 在游戏研发中的用法，沉淀工具调用、协作与评测方案。",
+      "role": "架构方案 · 原型与评测",
+      "period": "2025.09–2026.07",
+      "status": "POC 验证",
+      "repository": null,
+      "url": null,
+      "details": ["设计理解任务、规划拆解、工具调用、观察结果与再规划的任务循环，明确工具 Schema 和调用约束。", "按策划、程序与测试角色拆分 Subagent，由主 Agent 分发任务、汇总结果，并控制各子任务的上下文。", "把配置生成、配置校验与单测生成封装为 Skill，通过 MCP 接入文档、配置表和代码仓库。", "涉及线上配置、数值修改和代码合并时保留人工确认，默认在分支和沙箱中验证。", "基于真实研发任务评估任务完成、产出质量与稳定性，记录 Trace 做失败归因；项目处于 POC 阶段，未全面上线。"]
+    },
+    {
+      "id": "figma-doc-export",
+      "kind": "tool",
+      "group": "团队工具",
+      "title": "Figma 交互文档导出插件",
+      "summary": "把交互稿中的图层、组件与规则转成结构化文档，减少重复整理，让设计稿与研发说明保持一致。",
+      "role": "独立开发 · 效率工具",
+      "period": "2024.01–2024.05",
+      "status": "团队内使用",
+      "repository": null,
+      "url": null,
+      "details": ["梳理交互文档模板，解析图层、组件与交互规则，自动生成并导出规范化说明。", "独立完成插件开发，团队内有 12 人使用，服务设计与研发对接。", "单份文档整理耗时由约 60 分钟降至 15 分钟，减少约 75%。"]
+    }
+  ]
+}
