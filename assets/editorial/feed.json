@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T23:53:17.945Z",
+  "updatedAt": "2026-10-09T05:27:42.439Z",
   "articles": [
     {
       "id": "woshipm:6458867",
@@ -13,6 +13,69 @@
   ],
   "projects": [
     {
+      "id": "github:1354218450",
+      "source": "github",
+      "kind": "tool",
+      "title": "CodexFloat",
+      "summary": "A privacy-first native macOS Codex quota, reset activity, and task status assistant.",
+      "url": "https://github.com/AI-Max2000/CodexFloat",
+      "updatedAt": "2026-10-07T20:36:09Z"
+    },
+    {
+      "id": "github:1403594612",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-metrics",
+      "summary": "产品指标与业务复盘 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-metrics",
+      "updatedAt": "2026-10-03T20:04:09Z"
+    },
+    {
+      "id": "github:1403594453",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-competitive-research",
+      "summary": "竞品与商业研究 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-competitive-research",
+      "updatedAt": "2026-10-03T20:03:54Z"
+    },
+    {
+      "id": "github:1403594243",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-prototyping",
+      "summary": "产品交互原型与验证 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-prototyping",
+      "updatedAt": "2026-10-03T20:03:40Z"
+    },
+    {
+      "id": "github:1403594088",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-prd",
+      "summary": "产品需求文档与开发交接 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-prd",
+      "updatedAt": "2026-10-03T20:03:24Z"
+    },
+    {
+      "id": "github:1403593930",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-requirements",
+      "summary": "产品需求发现与交付拆解 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-requirements",
+      "updatedAt": "2026-10-03T20:03:11Z"
+    },
+    {
+      "id": "github:1403592425",
+      "source": "github",
+      "kind": "tool",
+      "title": "pm-prompt-design",
+      "summary": "产品提示词设计与评测 | Codex Skill · 中文 Markdown · 场景示例与实际截图",
+      "url": "https://github.com/AI-Max2000/pm-prompt-design",
+      "updatedAt": "2026-10-03T20:02:58Z"
+    },
+    {
       "id": "github:1390873187",
       "source": "github",
       "kind": "product",
@@ -20,15 +83,6 @@
       "summary": "未明 · 团队协作入口",
       "url": "https://github.com/AI-Max2000/weiming",
       "updatedAt": "2026-09-27T13:27:58Z"
-    },
-    {
-      "id": "github:1354218450",
-      "source": "github",
-      "kind": "tool",
-      "title": "CodexFloat",
-      "summary": "A privacy-first native macOS Codex quota, reset activity, and task status assistant.",
-      "url": "https://github.com/AI-Max2000/CodexFloat",
-      "updatedAt": "2026-09-27T07:44:23Z"
     },
     {
       "id": "github:1378395939",
@@ -69,7 +123,7 @@
     },
     "wechat": {
       "state": "unconfigured",
-      "profileUrl": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w"
+      "profileUrl": "https://mp.weixin.qq.com/s/7mMB7Ma29IK-TNaJsWh6yw"
     }
   }
 }

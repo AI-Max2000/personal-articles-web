@@ -5,17 +5,33 @@
   "portrait": "assets/profile/jiang-haotian-portrait.jpg",
   "role": "AI 产品经理 · AI Builder",
   "bio": "记录思考，分享实践。",
+  "introduction": {
+    "headline": [
+      "我是江昊天。",
+      "把 AI 做成产品。"
+    ],
+    "summary": "3 年 AI 产品实践，主导智能客服与 AIGC 平台。\n独立构建并上线多款 AI 产品。"
+  },
   "tagline": "从游戏交互出发，构建 AI 产品与工具。",
-  "about": "我从 SLG 游戏交互策划开始，关注复杂系统如何被理解、被使用。后来走向 AI 产品，围绕玩家服务、内容生产和研发协作，把业务问题拆成产品方案、工作流与可验证的原型。\n\n工作之外，我独立构建「一炷」「未明」，也在做面向内容创作者的 TOC 创作台和面向 AI 产品经理的 AI 产品工厂。从交互设计、模型评测到上线迭代，我喜欢把想法做成可以使用的产品，再把经验写成文章、插件和 Skill。",
+  "about": "我有 4 年游戏行业经验、3 年 AI 产品实践，从 SLG 游戏交互策划走向 AI 产品经理。擅长把业务问题拆成可评测、可上线的产品方案，串起需求定义、模型选型与评测、工作流设计和上线交付。\n\n在乐易网络，我主导智能客服与 AIGC 平台的产品方案，推动 AI 进入玩家服务与素材生产。AIGC 平台供 150 名团队成员使用，支持多个游戏项目复用生成能力与内容资产；游戏研发 Coding Agent 已完成 POC，沉淀了任务拆解、工具调用与评测方案。\n\n我也亲手开发效率工具。独立开发的 Figma 交互文档插件已供 12 名团队成员使用，将单份文档整理耗时从约 60 分钟缩短到 15 分钟，减少设计与研发对接中的重复整理。\n\n工作之外，我独立构建并上线「一炷」「未明」，从产品设计、AI 工作流到部署迭代亲手完成。AI 产品工厂已跑通“需求—原型—评测—交付”，TOC 创作台已串起“选题—研究—共创—审校—排版”，把实践经验沉淀成可以反复使用的产品与工具。",
   "wechat": "Bunny-one-15",
   "email": "1278983932@qq.com",
   "phone": "17679089420",
-  "officialAccount": null,
-  "officialAccountUrl": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w",
+  "officialAccount": "江昊天",
+  "officialAccountUrl": "https://mp.weixin.qq.com/s/7mMB7Ma29IK-TNaJsWh6yw",
   "focusAreas": [
-    { "title": "产品与交互", "description": "用户研究、需求拆解、信息架构与复杂流程设计。" },
-    { "title": "Agent 编排", "description": "任务拆解、工具调用与多 Agent 协作，让模型在清晰的边界内完成工作。" },
-    { "title": "评测与构建", "description": "用真实任务、人工评审和模型评测验证方案，再通过独立产品与工具持续迭代。" }
+    {
+      "title": "产品与交互",
+      "description": "用户研究、需求拆解、信息架构与复杂流程设计。"
+    },
+    {
+      "title": "Agent 编排",
+      "description": "任务拆解、工具调用与多 Agent 协作，让模型在清晰的边界内完成工作。"
+    },
+    {
+      "title": "评测与构建",
+      "description": "用真实任务、人工评审和模型评测验证方案，再通过独立产品与工具持续迭代。"
+    }
   ],
   "experience": [
     {
@@ -32,14 +48,65 @@
     }
   ],
   "sharing": [
-    { "id": "aigc-workshop", "category": "企业培训", "title": "AIGC 时代的工作流程与应用", "description": "面向公司团队分享游戏业务中的 AI 使用场景、工作流与实操方法。", "url": null },
-    { "id": "writing-in-public", "category": "持续创作", "title": "把实践写下来", "description": "在公众号、人人都是产品经理与站酷分享作品和文章，记录 AI 产品体验、工作流实践与构建过程。", "url": "https://www.woshipm.com/u/1390044" },
-    { "id": "grok-bot-meetup", "category": "行业交流", "title": "2026 SpaceXAI Grok Bot Meetup", "description": "受邀参与北京线下交流。", "url": null }
+    {
+      "id": "aigc-workshop",
+      "category": "企业培训",
+      "title": "企业 AI 转型赋能",
+      "description": "面向企业团队开展 AI 应用培训与实践分享，帮助团队理解和使用 AI 工具。",
+      "url": null,
+      "details": [],
+      "gallery": [
+        {
+          "src": "assets/editorial/sharing/aigc-workshop-nameplate.jpg",
+          "alt": "企业 AI 分享活动现场，桌上的名牌写有 Maxjiang（江昊天）",
+          "caption": "活动现场",
+          "width": 1279,
+          "height": 1706
+        },
+        {
+          "src": "assets/editorial/sharing/aigc-workshop-poster.jpg",
+          "alt": "企业 AI 培训与分享活动海报",
+          "caption": "分享海报",
+          "width": 1280,
+          "height": 2844
+        },
+        {
+          "src": "assets/editorial/sharing/aigc-workshop-speaking.jpg",
+          "alt": "江昊天在会议室使用电脑和投影进行 AI 主题分享",
+          "caption": "现场分享",
+          "width": 404,
+          "height": 303
+        }
+      ]
+    },
+    {
+      "id": "writing-in-public",
+      "category": "持续创作",
+      "title": "把实践写下来",
+      "description": "在公众号与人人都是产品经理分享文章，记录 AI 产品体验、工作流实践与构建过程。",
+      "url": "https://www.woshipm.com/u/1390044"
+    },
+    {
+      "id": "grok-bot-meetup",
+      "category": "行业交流",
+      "title": "2026 SpaceXAI Grok Bot Meetup",
+      "description": "受邀参与北京线下交流。",
+      "url": null
+    }
   ],
   "profileLinks": [
-    { "label": "GitHub", "url": "https://github.com/AI-Max2000" },
-    { "label": "人人都是产品经理", "url": "https://www.woshipm.com/u/1390044" },
-    { "label": "公众号文章", "url": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w" }
+    {
+      "label": "GitHub",
+      "url": "https://github.com/AI-Max2000"
+    },
+    {
+      "label": "人人都是产品经理",
+      "url": "https://www.woshipm.com/u/1390044"
+    },
+    {
+      "label": "公众号文章",
+      "url": "https://mp.weixin.qq.com/s/7mMB7Ma29IK-TNaJsWh6yw"
+    }
   ],
   "portfolio": [
     {
@@ -59,13 +126,19 @@
         "用样例集、人工评分与 AI 裁判对比模型的回答、耗时和用量，保留评测记录。",
         "从文档提炼可复用 Skill；基于模板生成 AI Web 工具，经过测试与验收后输出部署包。",
         "用户接入自己的模型 API；对话与文档保存在本机，生成请求发送给所选模型服务。"
-      ]
+      ],
+      "marketingUrl": "https://ai-max2000.github.io/product-factory-site/",
+      "image": {
+        "src": "assets/editorial/projects/ai-product-factory-interface.jpg",
+        "alt": "AI 产品工厂实际工作台：新任务、项目与继续工作入口",
+        "label": "产品界面"
+      }
     },
     {
       "id": "toc-creator-studio",
       "kind": "product",
       "group": "独立项目",
-      "title": "TOC · AI 内容创作台",
+      "title": "题眼 · TOC 创作台",
       "summary": "把选题、研究、共创、审校与排版串成连续流程。让 AI 协助检索与表达，把选题和观点的决定权留给创作者。",
       "role": "独立构建 · AI Builder",
       "period": null,
@@ -77,7 +150,12 @@
         "先加入作者的观点与真实经历、确认大纲，再分步生成和编辑文章。",
         "为引用关联原始证据，支持事实核查与内容重合度检查。",
         "沉淀个人选题和案例知识，复用于后续创作，并导出公众号等平台的排版格式。"
-      ]
+      ],
+      "image": {
+        "src": "assets/editorial/projects/toc-creator-studio-interface.jpg",
+        "alt": "题眼 TOC 创作台实际首页：AI 热点、选题与内容共创入口",
+        "label": "产品界面"
+      }
     },
     {
       "id": "yizhu",
@@ -90,7 +168,17 @@
       "status": "线上体验",
       "repository": "AI-Max2000/yizhu-web",
       "url": "https://yi-zhu.cn",
-      "details": ["设计发问、求签与解读的交互，明确角色语气和回答边界。", "维护结构化签文与解读资料，用 Dify 编排提问、求签、检索和解读流程。", "独立完成域名与上线，持续观察用户从提交问题到展开签纸的体验。"]
+      "details": [
+        "设计发问、求签与解读的交互，明确角色语气和回答边界。",
+        "维护结构化签文与解读资料，用 Dify 编排提问、求签、检索和解读流程。",
+        "独立完成域名与上线，持续观察用户从提交问题到展开签纸的体验。"
+      ],
+      "marketingUrl": "https://ai-max2000.github.io/yizhu-moment/",
+      "image": {
+        "src": "assets/editorial/projects/yizhu-interface.png",
+        "alt": "一炷实际产品界面：香炉、心事输入与求签入口",
+        "label": "产品界面"
+      }
     },
     {
       "id": "weiming",
@@ -103,7 +191,18 @@
       "status": "已上线",
       "repository": "AI-Max2000/weiming",
       "url": "https://github.com/AI-Max2000/weiming",
-      "details": ["采用工作流与 LLM 判定节点，约束输出为「是 / 否 / 无关」，控制主持人的回答边界。", "把汤底拆成互不蕴含的关键线索，按命中情况推进阶段、提示与真相还原。", "记录已命中线索和提问次数，拦截直接索取汤底的提示注入。", "用覆盖同义、否定、复合问法与注入样本的评测集，验证判定准确性与一致性。"]
+      "details": [
+        "采用工作流与 LLM 判定节点，约束输出为「是 / 否 / 无关」，控制主持人的回答边界。",
+        "把汤底拆成互不蕴含的关键线索，按命中情况推进阶段、提示与真相还原。",
+        "记录已命中线索和提问次数，拦截直接索取汤底的提示注入。",
+        "用覆盖同义、否定、复合问法与注入样本的评测集，验证判定准确性与一致性。"
+      ],
+      "marketingUrl": "https://ai-max2000.github.io/weiming-site/",
+      "image": {
+        "src": "assets/editorial/projects/weiming-interface.png",
+        "alt": "未明实际产品首页：剧本档案、推理入口与今晚的档案",
+        "label": "产品界面"
+      }
     },
     {
       "id": "game-ai-support",
@@ -116,7 +215,16 @@
       "status": "游戏服务场景",
       "repository": null,
       "url": null,
-      "details": ["梳理玩家售后问题，设计智能 Wiki 悬浮入口与问答流程。", "组织游戏规则、FAQ 与历史问题，设计检索、引用溯源和反馈回流。", "设计无答案兜底与转人工流程，明确模型回答边界。"]
+      "details": [
+        "梳理玩家售后问题，设计智能 Wiki 悬浮入口与问答流程。",
+        "组织游戏规则、FAQ 与历史问题，设计检索、引用溯源和反馈回流。",
+        "设计无答案兜底与转人工流程，明确模型回答边界。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/game-ai-support.webp",
+        "alt": "游戏 AI 智能客服功能示意：知识检索、引用溯源与人工兜底",
+        "label": "功能示意"
+      }
     },
     {
       "id": "aigc-platform",
@@ -129,7 +237,17 @@
       "status": "公司内部平台",
       "repository": null,
       "url": null,
-      "details": ["围绕角色生成、风格化批量生成与三视图一致性，梳理美术和买量素材的生产流程。", "设计 CMS 内容资产、权限与额度管理，让生成能力和素材在项目之间复用。", "围绕质量、风格一致性、成本与速度建立模型评测集，沉淀选型流程。"]
+      "details": [
+        "围绕角色生成、风格化批量生成与三视图一致性，梳理美术和买量素材的生产流程。",
+        "设计 CMS 内容资产、权限与额度管理，让生成能力和素材在项目之间复用。",
+        "围绕质量、风格一致性、成本与速度建立模型评测集，沉淀选型流程。"
+      ],
+      "marketingUrl": "https://ai-max2000.github.io/leyou-site/",
+      "image": {
+        "src": "assets/editorial/projects/aigc-platform.webp",
+        "alt": "乐游工作台：游戏图标、海报、场景与视频创作入口",
+        "label": "产品界面"
+      }
     },
     {
       "id": "game-agent",
@@ -142,7 +260,19 @@
       "status": "POC 验证",
       "repository": null,
       "url": null,
-      "details": ["设计理解任务、规划拆解、工具调用、观察结果与再规划的任务循环，明确工具 Schema 和调用约束。", "按策划、程序与测试角色拆分 Subagent，由主 Agent 分发任务、汇总结果，并控制各子任务的上下文。", "把配置生成、配置校验与单测生成封装为 Skill，通过 MCP 接入文档、配置表和代码仓库。", "涉及线上配置、数值修改和代码合并时保留人工确认，默认在分支和沙箱中验证。", "基于真实研发任务评估任务完成、产出质量与稳定性，记录 Trace 做失败归因；项目处于 POC 阶段，未全面上线。"]
+      "details": [
+        "设计理解任务、规划拆解、工具调用、观察结果与再规划的任务循环，明确工具 Schema 和调用约束。",
+        "按策划、程序与测试角色拆分 Subagent，由主 Agent 分发任务、汇总结果，并控制各子任务的上下文。",
+        "把配置生成、配置校验与单测生成封装为 Skill，通过 MCP 接入文档、配置表和代码仓库。",
+        "涉及线上配置、数值修改和代码合并时保留人工确认，默认在分支和沙箱中验证。",
+        "基于真实研发任务评估任务完成、产出质量与稳定性，记录 Trace 做失败归因；项目处于 POC 阶段，未全面上线。"
+      ],
+      "marketingUrl": "https://ai-max2000.github.io/leyi-site/",
+      "image": {
+        "src": "assets/editorial/projects/game-agent.webp",
+        "alt": "乐易研发工作台：机器人对话与代码变更预览",
+        "label": "产品界面"
+      }
     },
     {
       "id": "figma-doc-export",
@@ -155,7 +285,265 @@
       "status": "团队内使用",
       "repository": null,
       "url": null,
-      "details": ["梳理交互文档模板，解析图层、组件与交互规则，自动生成并导出规范化说明。", "独立完成插件开发，团队内有 12 人使用，服务设计与研发对接。", "单份文档整理耗时由约 60 分钟降至 15 分钟，减少约 75%。"]
+      "details": [
+        "梳理交互文档模板，解析图层、组件与交互规则，自动生成并导出规范化说明。",
+        "独立完成插件开发，团队内有 12 人使用，服务设计与研发对接。",
+        "单份文档整理耗时由约 60 分钟降至 15 分钟，减少约 75%。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/figma-doc-export.webp",
+        "alt": "Figma 交互文档导出功能示意：从设计图层到研发说明",
+        "label": "功能示意"
+      }
+    },
+    {
+      "id": "codex-float",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "CodexFloat",
+      "summary": "macOS 原生浮窗，把 Codex 额度、重置活动与任务状态放在手边。",
+      "role": "独立开发 · 效率工具",
+      "period": null,
+      "status": "预览版",
+      "repository": "AI-Max2000/CodexFloat",
+      "url": "https://github.com/AI-Max2000/CodexFloat",
+      "details": [],
+      "image": {
+        "src": "assets/editorial/projects/codex-float.webp",
+        "alt": "CodexFloat 浮窗：额度、任务和重置状态",
+        "label": "产品界面"
+      }
+    },
+    {
+      "id": "codex-skill-manager",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "Skill 管理器",
+      "summary": "集中管理全局、项目与插件 Skills，查看实际生效状态，直接开关、编辑和阅读。",
+      "role": "独立开发 · 效率工具",
+      "period": null,
+      "status": "Beta",
+      "repository": "AI-Max2000/codex-skill-manager",
+      "url": "https://github.com/AI-Max2000/codex-skill-manager",
+      "details": [],
+      "image": {
+        "src": "assets/editorial/projects/codex-skill-manager.webp",
+        "alt": "Skill 管理器：全局技能库、项目配置和文档阅读",
+        "label": "产品界面"
+      }
+    },
+    {
+      "id": "product-deconstruction-skill",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "产品拆解 Skill",
+      "summary": "从截图、产品链接和源码证据出发，拆解用户流程与产品机制，输出可追溯的 HTML 报告。",
+      "role": "独立开发 · 效率工具",
+      "period": null,
+      "status": "开源 Skill",
+      "repository": "AI-Max2000/product-deconstruction-skill",
+      "url": "https://github.com/AI-Max2000/product-deconstruction-skill",
+      "details": [],
+      "image": {
+        "src": "assets/editorial/projects/product-deconstruction-skill.webp",
+        "alt": "产品拆解 Skill 功能示意：用户、技术、模型和数据四层分析",
+        "label": "功能示意"
+      }
+    },
+    {
+      "id": "pm-requirements",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "需求发现与交付拆解",
+      "summary": "把想法、访谈和反馈整理成有来源的问题，明确首版范围、用户故事与验收条件，再拆成可以交付的任务。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-requirements",
+      "url": "https://github.com/AI-Max2000/pm-requirements",
+      "details": [
+        "按任务选择需求发现、优先级排序、故事拆解或交付规划，保留每个问题的来源。",
+        "输出本期范围、正常与异常验收条件、依赖顺序和待决策项，资料不足时明确取舍依据。",
+        "仓库以「回声」合成反馈场景展示需求拆解，并与配套 PRD、原型交叉核对。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-requirements.png",
+        "alt": "需求发现与交付拆解的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
+    },
+    {
+      "id": "pm-competitive-research",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "竞品与商业研究",
+      "summary": "围绕具体产品决策研究竞品和替代方案，整理来源、对比矩阵与范围取舍，把研究结果落到下一步验证。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-competitive-research",
+      "url": "https://github.com/AI-Max2000/pm-competitive-research",
+      "details": [
+        "记录官方资料的来源与查阅日期，分别标明已核实能力、实际试用结果和分析判断。",
+        "从目标用户和关键任务出发比较替代方案，形成首版范围建议与验证计划。",
+        "仓库示例基于 Canny、Dovetail、Productboard 官方资料，保留未登录试用和未验证项。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-competitive-research.png",
+        "alt": "竞品与商业研究的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
+    },
+    {
+      "id": "pm-prd",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "PRD 文档与开发交接",
+      "summary": "把确定的产品方向写成可开发、可验收的 PRD，补齐业务规则、字段、状态、异常与权限，让设计和研发有共同依据。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-prd",
+      "url": "https://github.com/AI-Max2000/pm-prd",
+      "details": [
+        "梳理主流程、字段与状态变化，给出正常和异常场景下可观察的验收条件。",
+        "AI 功能按需补充行为边界、评测和降级方案；资料冲突与未知项保留来源及影响。",
+        "仓库以合成反馈场景展示人工确认、修改撤销和 CSV 导出规格；配套原型只覆盖部分需求。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-prd.png",
+        "alt": "PRD 文档与开发交接的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
+    },
+    {
+      "id": "pm-prototyping",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "交互原型与验证",
+      "summary": "把需求和 PRD 转成可操作原型，补齐关键状态与恢复流程，并通过键盘、移动端和完整任务路径检查交互。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-prototyping",
+      "url": "https://github.com/AI-Max2000/pm-prototyping",
+      "details": [
+        "沿用现有技术栈与视觉约束，明确演示功能、真实接口和后续开发范围。",
+        "实际走通关键用户任务，保留页面截图和检查记录，再把发现的问题反馈到需求。",
+        "仓库附「回声」HTML 原型、移动端截图与 CSV 导出实测记录，使用明确标记的合成反馈数据。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-prototyping.png",
+        "alt": "交互原型与验证的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
+    },
+    {
+      "id": "pm-prompt-design",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "提示词设计与评测",
+      "summary": "把产品任务写成可复用的提示词，明确输入边界、结构化输出和异常处理，配套输入输出样例与回归用例。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-prompt-design",
+      "url": "https://github.com/AI-Max2000/pm-prompt-design",
+      "details": [
+        "支持新建、诊断和改写 Agent 指令，保留已有有效规则，按任务加载必要参考。",
+        "明确模型负责的建议与应用负责的确认状态，处理信息不足、重复输入和文本中的越权要求。",
+        "仓库提供完整分类提示词、JSON 输出约定和验收用例；该示例尚未接入模型服务做效果评测。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-prompt-design.png",
+        "alt": "提示词设计与评测的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
+    },
+    {
+      "id": "pm-metrics",
+      "kind": "tool",
+      "group": "开源工具",
+      "title": "指标设计与业务复盘",
+      "summary": "从业务决策出发设计指标与埋点，统一分母、观察周期和数据口径；用离线计算器核算结果，形成可追溯的复盘。",
+      "role": "产品方法整合 · Skill 实践",
+      "period": null,
+      "status": "Codex Skill",
+      "repository": "AI-Max2000/pm-metrics",
+      "url": "https://github.com/AI-Max2000/pm-metrics",
+      "details": [
+        "检查分母、用户批次、时区、缺失值和数据质量；没有数据时先输出测量方案。",
+        "附离线 Python 计算器，覆盖比例、增长、MRR、NRR 与现金跑道，并处理零分母等边界。",
+        "仓库用合成反馈演示指标计算与事件设计；样例比例不作为模型准确率或生产业务结果。"
+      ],
+      "image": {
+        "src": "assets/editorial/projects/pm-metrics.png",
+        "alt": "指标设计与业务复盘的仓库实际输出示例：回声演示场景",
+        "label": "输出示例"
+      }
     }
-  ]
+  ],
+  "articleLinks": [
+    {
+      "id": "wechat:7mMB7Ma29IK-TNaJsWh6yw",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/7mMB7Ma29IK-TNaJsWh6yw",
+      "title": "别再用“节省了多少生成时间”证明 AI 产品有价值",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:9UTXf-jwmqPfjSfSELJnQA",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/9UTXf-jwmqPfjSfSELJnQA",
+      "title": "AI 产品经理只写 PRD 已经不够了，测试集正在变成第二份需求文档",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:2NhmHQUocr61bHMsVizD6g",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/2NhmHQUocr61bHMsVizD6g",
+      "title": "从一句“图片要好看”，到一套可以执行的AI产品验收标准",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:rtvS-vhMZxFvHu4Zhrr5pQ",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/rtvS-vhMZxFvHu4Zhrr5pQ",
+      "title": "4000 万美金、百亿估值的 Jev，被一个免费开源的 Laya 追上了？",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:07cBLoE__MJ3rn_p9AQJ-w",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/07cBLoE__MJ3rn_p9AQJ-w",
+      "title": "砍掉 Astra 的第二天，OpenAI 发了 GPT-6.1 Sol，价格只动了一项",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:jMcCRQoNDvtU7T2K6pX1Gg",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/jMcCRQoNDvtU7T2K6pX1Gg",
+      "title": "我让 MUSE 帮我买 MacBook，它连问卖家和砍价都接过去了",
+      "summary": "",
+      "publishedAt": null
+    },
+    {
+      "id": "wechat:7f8EsYxBVTPGq0_Sh187SQ",
+      "source": "wechat",
+      "url": "https://mp.weixin.qq.com/s/7f8EsYxBVTPGq0_Sh187SQ",
+      "title": "同样是 RAG，为什么别人 1 秒出字，你要等 6 秒？",
+      "summary": "",
+      "publishedAt": null
+    }
+  ],
+  "articleArchive": {
+    "label": "早期作品 · 站酷",
+    "description": "较早期的设计作品，留作记录。",
+    "url": "https://www.zcool.com.cn/u/ZOTI5MzMyODA="
+  }
 }
