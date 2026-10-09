@@ -223,8 +223,8 @@
       ],
       "marketingUrl": "https://ai-max2000.github.io/product-factory-site/",
       "image": {
-        "src": "assets/editorial/projects/ai-product-factory-interface.jpg",
-        "alt": "AI 产品工厂实际工作台：新任务、项目与继续工作入口",
+        "src": "assets/editorial/projects/ai-product-factory-evaluation.png",
+        "alt": "AI 产品工厂模型评测界面：A/B 模型回答、质量评分、耗时与样例集对比",
         "label": "产品界面"
       }
     },
